@@ -21,4 +21,8 @@ The model is trained using images and then tested on video to predict eye state 
 - inference.py → used to test on video  
 - eye_classifier.pth → trained model  
 - input.mp4 → test video  
-- output_video.mp4 → result video  
+- output_video.mp4 → result video
+## Author
+
+Esa khan AI Engineer 
+
