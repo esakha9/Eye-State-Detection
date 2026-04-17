@@ -1,12 +1,12 @@
 # 👁 Eye State Detection (Open / Closed)
 
-## 📌 Overview
+## Overview
 
 This project detects whether a person's eyes are **open or closed** using a deep learning model. It processes video input and predicts eye state frame-by-frame in real time.
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 * **Architecture:** ResNet18 (CNN-based classifier)
 * **Framework:** PyTorch
@@ -16,7 +16,7 @@ This project detects whether a person's eyes are **open or closed** using a deep
 
 ---
 
-## ⚙️ How it Works
+## How it Works
 
 1. Train a deep learning model on labeled eye images (open / closed)
 2. Load the trained model (`eye_classifier.pth`)
@@ -26,7 +26,7 @@ This project detects whether a person's eyes are **open or closed** using a deep
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 * `train.py` → Train the model
 * `inference.py` → Run detection on video
@@ -36,7 +36,7 @@ This project detects whether a person's eyes are **open or closed** using a deep
 
 ---
 
-## 🎯 Applications
+## Applications
 
 * Driver drowsiness detection
 * Fatigue monitoring systems
@@ -44,7 +44,7 @@ This project detects whether a person's eyes are **open or closed** using a deep
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Esa Khan
 AI Engineer
